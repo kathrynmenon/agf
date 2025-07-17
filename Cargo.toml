@@ -1,0 +1,5 @@
+[package]
+name = "agf"
+version = "0.1.0"
+edition = "2021"
+description = "Find, search, and resume local AI coding-agent sessions across Muse Code, Claude Code, Codex, Antigravity, Grok, Kimi, Qwen, Gemini, Cursor, and more."
