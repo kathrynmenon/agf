@@ -5,3 +5,4 @@ fn main() {
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
 // clarify the control flow
+// clarify the control flow
